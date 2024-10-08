@@ -1,0 +1,12 @@
+- Como ocorre a gestão dos projetos? (Kambam, scrum, etc..)
+- Existe uma equipe de Operações?
+  - Se sim: Quais são as principais práticas da equipe de operações?
+  - Se sim: Como a cultura organizacional contribui com os processos de Operações?
+- Quais softwares usa? (ambientes, ferramentas DevOps, etc)
+- Existe um fluxo/metodologia de implantação?
+- A equipe de Desenvolvimento respeita/atende adequadamente o fluxo como desejado?
+  - Se não: Identifica algum ponto de melhoria?
+- Quais outras áreas (além de Desenvolvimento) se relacionam com Operações? (Negócio, Marketing, Projetos...)
+- Como se dá a integração de módulos/entrega contínua/atualizações?
+- Pratica testes automatizados?
+- Como os bugs são identificados/tratados?
